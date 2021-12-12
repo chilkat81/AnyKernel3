@@ -10,11 +10,12 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=X00T
-device.name2=X00TD
-device.name3=X00TDA
-device.name4=X00TDB
-device.name5=X00TDC
+device.name1=x3
+device.name2=RMX2085
+device.name3=RMX2082
+device.name4=RMX2086
+device.name5=RMX2083
+device.name6=RMX2081
 supported.versions=
 supported.patchlevels=
 '; } # end properties
